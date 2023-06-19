@@ -1,0 +1,14 @@
+{
+  "name": "node-gcs-cruds",
+  "version": "1.0.0",
+  "description": "+ Google Cloud Storage の Create/Read/Update/Delete/Select サンプル",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^6.11.0"
+  }
+}
